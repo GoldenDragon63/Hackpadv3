@@ -36,3 +36,4 @@ Enter the bootloader in 3 ways:
 * 5 LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
 * 1 0.91 inch OLED display with pin order GND-VCC-SCL-SDA
 * 1 3D-printed case (two seperate parts)
+* 4 Screws M3
