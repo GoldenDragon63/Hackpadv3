@@ -1,10 +1,12 @@
 
-![3](https://github.com/user-attachments/assets/8b86f070-cc09-4ef9-a341-5becaa188583)
-![2](https://github.com/user-attachments/assets/467d0fd1-9f59-4034-ba0b-5aef7060a005)
-![9](https://github.com/user-attachments/assets/7e497519-8801-4bd9-9e84-14bde8dbe9d2)
-![8](https://github.com/user-attachments/assets/041c6492-a754-46d0-9731-84d009371b7c)
-![5](https://github.com/user-attachments/assets/3e0ed71f-93a7-4dfb-b15c-d35a9a771fed)
-![4](https://github.com/user-attachments/assets/b970d11c-ec3f-4d33-a1da-7ea453337ac2)
+![3](https://github.com/user-attachments/assets/cd9d58b9-b64c-4588-95bc-42f56d2f17e6)
+![2](https://github.com/user-attachments/assets/d9297690-e7db-4bcc-ab02-a3161082888f)
+![Fixed Case](https://github.com/user-attachments/assets/80999da5-53d2-4566-b234-c843d463150e)
+![9](https://github.com/user-attachments/assets/7f830ef5-5e1b-4abc-9117-3f34554a25e6)
+![8](https://github.com/user-attachments/assets/815c5b06-7189-4572-b442-7cff7cf85839)
+![6](https://github.com/user-attachments/assets/1ed37a33-99e2-458a-bef4-aeb2625f9e9c)
+![4](https://github.com/user-attachments/assets/d53b4727-e0bb-4078-9ed9-28c2337298ba)
+
 
 * Keyboard Maintainer: [Goldendragon63]
 * Hardware Supported: The PCBs, controllers supported
